@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: StockTradeHard
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Shaifali Singh
+Implementation-Vendor-Id: com.hackerrank
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/StockTradeHa
+ rd/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
